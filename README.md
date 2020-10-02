@@ -2,7 +2,7 @@
 
 # *Fun Group*
 
-# Members
+# Members and Travel Companions.
 
 1. Aditya Kulhari
 2. Amit Ranjan
